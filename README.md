@@ -40,7 +40,7 @@ Hi, I'm THUDUWAGE DON WARUNA HEMAKUMARA, Network and Security Engineer with a st
 ## 📚 Additional Information
 - **Member-(ISC)2 Singapore Chapter**
 - **Australian Computer Society**
-## ACHIEVEMENTS
+## :dart: ACHIEVEMENTS
 - **Prize for Highest Achiever in Computing. - Plymouth University 2015**
 - **Gold Medal Award for Overall Best Performance. - National School of Business Management (NSBM)2015**
 - **Prize for Highest Achiever in Computer Networks. - National School of Business Management (NSBM)2015**
