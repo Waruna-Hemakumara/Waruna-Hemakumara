@@ -8,6 +8,13 @@ Hi, I'm THUDUWAGE DON WARUNA HEMAKUMARA, Network and Security Engineer with a st
 - **Collaboration:** Woking with multiple teams for a common goal
 - **Complex Problem Solving:** use the Knowledge and experience resolve complex problems
 - **Creativity** use of imagination or original ideas to create something
+- **Web Application Security**
+- **Technical Support**
+- **Vulnerability Assessment**
+- **Technical Project Coordination**
+- **Network Security**
+- **Penetration Testing**
+- **TCP/IP**
 - **Tools:** Wireshark, Nmap, Metasploit, Burp Suite
 - **Certifications:** OSCP, CISSP, RHCE, F5CA, CCNP, CCSA, PCNSE
 
@@ -34,7 +41,7 @@ Hi, I'm THUDUWAGE DON WARUNA HEMAKUMARA, Network and Security Engineer with a st
 - **Problem Management Workshop - Kepner-Tregoe**
 
 ## 📞 Contact
-- **LinkedIn:** <href:https://linkedin.com/in/waruna-hemakumara-2bb58094/>
+- **LinkedIn:** https://linkedin.com/in/waruna-hemakumara-2bb58094
 
 
 ## 📚 Additional Information
